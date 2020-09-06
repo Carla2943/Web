@@ -1,0 +1,121 @@
+@media only screen and(max-width: 800px)
+
+
+
+
+*::selection{
+color: #BBCAD7;
+background-color:#6FA3ED;}
+
+a{
+color: white;
+}
+
+body{
+background-color: #ffb4bf ;
+
+
+}
+
+		h1 {
+		color :#F90585 ;
+		font-size: 70px;
+		font-family:Indie Flower; 
+		line-height: 1,9;}
+
+		h1::first-letter{
+		color: #FF0085;
+		font-size: 120px;
+		font-family: Indie Flower;
+		line-height: 1,9;}
+
+		h2 {
+		color :#FB4FA9 ;
+		font-size: 30px;
+		font-family:Indie Flower; 
+		line-height: 1,9;}
+
+		h3 {
+		color :#56D5A4;
+		font-size: 13px;
+		font-family:Oswald; 
+		line-height: 1,9;}
+		  	 
+		h4 {	 
+		color :#B39CD0;
+		font-size: 15px;
+		font-family:Oswald;
+		line-height: 1,9;}
+
+		h4:hover {	 
+		color: white;
+	    font-size: 18px;}
+
+
+		h5 {	 
+		color :#000000;
+		font-size: 15px;
+		font-family:Oswald;
+		line-height: 1,9;}
+
+		 p {
+		color :#a5b9cc ;
+		font-size: 18px;
+		font-family:Oswald; 
+		line-height: 1,9;}
+
+	input { 
+	 width: 260px;
+	 height: 30px;
+	 color: #b85ce6;
+	 border-style: ridge  90px;
+	 border-color:white;
+	 background-color: #EFF2F7;
+	 object-position :right;}
+
+
+	input::placeholder {
+	 
+	 font-family: Grandstander;
+	 font-size: 15px;
+	  text-shadow: #888 -2px 2px 1px, #97AAEA 2px 2px 1px;
+}
+
+	nav{
+	 font-family: Grandstander;
+	 font-size: 13px;
+	 color: white;}
+
+
+.caja-fixed {
+background:#CDCDCD;
+position: fixed;
+opacity: 0.5;
+top: 20px;
+text-shadow: -2px -2px 1px  #025c50;}
+
+.p-otro {
+color :#a5b9cc;
+font-size: 18px;
+font-family: Oswald; 
+line-height: 1,9;}
+
+		.p-1 {
+		  color: #a5b9cc;
+		  font-size: 17px;
+		  font-family: Oswald ;
+		  line-height: 1,9;}
+
+		.Texto{
+		  text-shadow: -2px -2px 1px #000;}
+
+		 li {
+		 	display: inline-block;}
+		 .nav {
+		 	background-color: #ff7589;}
+		 li:hover {
+		 	background-color: #ab0a65;
+		 	font-family: Grandstander;
+		 }
+
+
